@@ -1,0 +1,19 @@
+body {
+    background-color: #000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: aliceblue;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.my_photo {
+    background: url(../image/pedro-raccoon-raccoon.gif) no-repeat center center;
+    background-size: auto;
+    width: 100 px;
+    height: 100 px;
+}
